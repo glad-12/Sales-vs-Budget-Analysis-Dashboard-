@@ -1,5 +1,4 @@
-# Sales-vs-Budget-Analysis-Dashboard-
-Power BI sales vs budget analysis (2019–2021): Power Query ETL, star schema and DAX measures, with dashboards on revenue, budget attainment, channels, products and salespeople.  
+
 # 📊 Sales vs Budget Performance Analysis (2019 – 2021)
 
 **Power BI | Power Query (ETL) | DAX | Star Schema Data Modeling**
@@ -8,7 +7,7 @@ A real-world business intelligence project that combines **actual sales**, **mon
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 1. [Project Overview](#-project-overview)
 2. [Business Questions](#-business-questions)
@@ -24,7 +23,7 @@ A real-world business intelligence project that combines **actual sales**, **mon
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 A consumer-goods distribution company sells food and beverage products through **Retail**, **Distributor** and **Online** channels. Headline revenue alone does not show whether the sales team is hitting expectations, so management needed:
 
