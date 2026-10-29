@@ -99,13 +99,7 @@ The budget file was **not in a table format**. Each year sat on its own sheet, w
 
 <img width="1048" height="554" alt="image" src="https://github.com/user-attachments/assets/2f196530-b8bf-4349-bf43-b4c3da0bbd57" />
 
-```mermaid
-erDiagram
-    DimProduct    ||--o{ Fact_Sales : "ProductKey"
-    DimDate       ||--o{ Fact_Sales : "OrderDate"
-    DimSalesPerson ||--o{ Fact_Sales : "SalespersonKey"
-    DimDate       ||--o{ BudgetFact : "Budget Date"
-    DimSalesPerson ||--o{ BudgetFact : "Salesperson"
+
 ```
 
 ### Tables in the model
@@ -175,8 +169,6 @@ RETURN DIVIDE ( [Total Revenue] - PrevRevenue, PrevRevenue )
 ## Dashboard Walkthrough
 
 ### Page 1: Revenue vs Budget Performance (2019 to 2021)
-
-![Revenue vs Budget
 <img width="989" height="546" alt="image" src="https://github.com/user-attachments/assets/01112bda-d931-4315-bf37-2fbe50f3713a" />
 
 | KPI | Value |
