@@ -100,7 +100,6 @@ The budget file was **not in a table format**. Each year sat on its own sheet, w
 <img width="1048" height="554" alt="image" src="https://github.com/user-attachments/assets/2f196530-b8bf-4349-bf43-b4c3da0bbd57" />
 
 
-```
 
 ### Tables in the model
 
